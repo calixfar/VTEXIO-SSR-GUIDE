@@ -1,0 +1,13 @@
+{
+  "shelf-container": {
+    "component": "ShelfContainer",
+    "composition": "children"
+  },
+  "not-found-box": {
+    "component": "NotFoundBox"
+  },
+  "server-content": {
+    "component": "ServerContent",
+    "render": "server"
+  }
+}
